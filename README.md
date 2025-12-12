@@ -35,4 +35,4 @@ Make up y accesorios
         <p>&copy; 2023 Destiny. Makeup y Accesorios Mágicos. Todos los derechos reservados. 🦋✨</p>
     </pie de página>
 </cuerpo>
-</HTML>
+</HTML>         
